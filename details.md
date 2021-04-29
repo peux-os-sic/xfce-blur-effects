@@ -1,0 +1,1 @@
+This package is useful only if you are running XFWM as your window manager. The installation requires sudo privileges. The repository can be found at https://github.com/peux-os-sic/xfce-blur-effects.
